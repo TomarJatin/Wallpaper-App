@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363767956606",
+    "project_id": "anime-wallpapers-ee477",
+    "storage_bucket": "anime-wallpapers-ee477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363767956606:android:38382bb01fb5de775d842f",
+        "android_client_info": {
+          "package_name": "com.example.animewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363767956606-dkfgemi9l428s3jqvudvjj5m65rg19q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXG-TgvWHHni-ZOIleQ327oEuPVYhN6QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363767956606-dkfgemi9l428s3jqvudvjj5m65rg19q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
